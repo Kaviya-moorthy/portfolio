@@ -87,6 +87,10 @@ body {
     justify-content: space-between;
     align-items: center;
 }
+.button {
+    display: flex;
+    gap: 10px; /* Adds space between the buttons */
+  }
 .button button {
     background-color: #4CAF50;
     color: white;
